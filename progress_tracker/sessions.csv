@@ -1,0 +1,2 @@
+date,session_type,project,time_spent_min,what_i_did,tools_used,artifacts_links,notes
+2025-12-07,Learning,ai-terminal-project – environment + tooling setup,90,"Installed and configured Python, pip, Node, and Git. Set up ai-terminal-project as a Git repo and pushed to GitHub. Installed VS Code Python extension and created a CLI logger script.","Python, VS Code, Git, GitHub, Windows Terminal, ChatGPT",,First time wiring all tools together on this laptop. Took a bit to fix PATH issues but now everything works from the terminal.
